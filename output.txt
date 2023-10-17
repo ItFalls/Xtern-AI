@@ -1,0 +1,19 @@
+Times
+count       5000
+unique         4
+top       Year 3
+freq        2719
+Name: Year, dtype: object
+
+
+KNeighborsClassifier - Accuracy: 0.619
+SVC - Accuracy: 0.455
+SVC - Accuracy: 0.652
+DecisionTreeClassifier - Accuracy: 0.644
+RandomForestClassifier - Accuracy: 0.638
+MLPClassifier - Accuracy: 0.529
+AdaBoostClassifier - Accuracy: 0.397
+GaussianNB - Accuracy: 0.469
+QuadraticDiscriminantAnalysis - Accuracy: 0.479
+SGDClassifier - Accuracy: 0.309
+GradientBoostingClassifier - Accuracy: 0.629
